@@ -31,4 +31,4 @@ const hello = {
 myElement.addEventListener("click", hello.handledBlue);
 myElement.addEventListener("click", hello.handledGreen);
 ```
-
+객체 내부에 선언한 함수를 '메서드' 라고 함.
